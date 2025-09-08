@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jane Murimi.
 - 👀 I’m interested in front-end and backend javascript website development.
-- 🌱 I’m currently learning mobile programming.
+- 🌱 I’m currently learning artificial intelligence.
 - 💞️ I’m looking to collaborate on any frontend or backend javascript, react and node project.
 - 📫 Reach me through email at murimijanen@gmail.com
 <!---
